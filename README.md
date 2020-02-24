@@ -1,4 +1,4 @@
-This repository is to give basic reference introduction to 
+This repository is to give basic example introduction to 
 
 Pre-Requisites
 - Java Crash Course with basic grasp of Annotations
